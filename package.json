@@ -1,0 +1,23 @@
+{
+  "name": "gfw-pac",
+  "version": "0.0.1",
+  "description": "提供pac文件，根据ip动态修改 proxy",
+  "main": "index.js",
+  "dependencies": {
+    "ip": "^1.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/somax/gfw-pac.git"
+  },
+  "author": "somax <somaxj@163.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/somax/gfw-pac/issues"
+  },
+  "homepage": "https://github.com/somax/gfw-pac#readme"
+}
